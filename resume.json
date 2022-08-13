@@ -1,0 +1,187 @@
+{
+  "selectedTemplate": 2,
+  "headings": {
+    "work": "",
+    "projects": "",
+    "awards": ""
+  },
+  "basics": {
+    "name": "Jameel Kelley",
+    "website": "jamkelley.com",
+    "email": "jamkelley22@gmail.com",
+    "location": {
+      "address": "Woodbury, MN"
+    }
+  },
+  "education": [
+    {
+      "institution": "Iowa State University",
+      "area": "Human-Computer Interaction & Computer Engineering",
+      "studyType": "MS",
+      "location": "Ames, IA",
+      "gpa": "3.77",
+      "endDate": "Aug 2022",
+      "startDate": "May 2020"
+    },
+    {
+      "institution": "Iowa State University",
+      "location": "Ames, IA",
+      "area": "Software Engineering",
+      "endDate": "May 2020",
+      "gpa": "3.31",
+      "studyType": "BS",
+      "startDate": "Aug 2016"
+    }
+  ],
+  "work": [
+	{
+      "highlights": [
+        "Devlop user tools for improved process workflow",
+        "Preform user testing and modify user interface for improved usability"
+      ],
+      "company": "3M",
+      "position": "Advanced Research Engineer",
+      "location": "Maplewood, MN",
+      "startDate": "Aug 2022",
+      "endDate": "Present"
+    },
+    {
+      "highlights": [
+        "Integrated Reinforcement Learning into a Unity simulation for determining optimal alert modality"
+      ],
+      "company": "3M",
+      "position": "Data Science Intern",
+      "location": "Remote",
+      "startDate": "May 2021",
+      "endDate": "Aug 2021"
+    },
+    {
+      "highlights": [
+        "Leveraged the Vive HMD and Unity to immerse users in a virtual environment with physical equipment",
+        "Utilizing computer vision to build an educational review dashboard for instructors"
+      ],
+      "company": "Virtual Reality Applications Center",
+      "position": "Research/Graduate Assistant",
+      "location": "Ames, IA",
+      "startDate": "Jan 2018",
+      "endDate": "Present"
+    },
+    {
+      "website": "",
+      "highlights": [
+        "Managing grading and hosting office hours for 50+ students on a weekly basis"
+      ],
+      "company": "Iowa State University",
+      "position": "Graduate Teaching Assistant",
+      "location": "Ames, IA",
+      "startDate": "Aug 2020",
+      "endDate": "Nov 2020"
+    },
+    {
+      "highlights": [
+        "Led a team of five engineers in technology discovery and implementation of 13 client-facing application pages in a React environment"
+      ],
+      "company": "Buildertrend",
+      "position": "Software Development Intern",
+      "location": "Omaha, NE",
+      "startDate": "May 2019",
+      "endDate": "Aug 2019"
+    },
+    {
+      "highlights": [
+        "Lead developer on VR farming hazard simulation application with aims to reduce the number of field accidents"
+      ],
+      "endDate": "Aug 2018",
+      "startDate": "May 2018",
+      "location": "Dubuque, IA",
+      "position": "Software Development Intern",
+      "company": "Design Mill Inc."
+    },
+    {
+      "highlights": [
+        "Developed a usability centered interface for online sustainability education"
+      ],
+      "endDate": "Aug 2017",
+      "startDate": "May 2017",
+      "location": "Ames, IA",
+      "position": "Research Intern",
+      "company": "Iowa State Human-Computer Interaction Lab "
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "Typescript",
+        "C#",
+        "SQL",
+        "HTML",
+        "SCSS"
+      ],
+      "name": "Programming Languages"
+    },
+    {
+      "keywords": [
+        "Research Design",
+        "Human-Centered Design",
+        "Nginx",
+        "Blender",
+        "Unity",
+        "Git"
+      ],
+      "name": "Processes / Tools"
+    }
+  ],
+  "projects": [
+	{
+      "keywords": [
+        "Unity",
+        "C#",
+        "Human-Centered Design",
+        "Python"
+      ],
+      "name": "Evaluation of MolCog Software and NUPACK Integration",
+      "description": "Creative Component fuffilled for master's degree in HCI and CprE. Software integration and between-subjects test on integrated and non integrated software to detemine productivity, learning, and errors between interfaces"
+    },
+    {
+      "url": "sdmay20-25.sd.ece.iastate.edu",
+      "keywords": [
+        "React",
+        "PostgreSQL",
+        "Spring",
+        "Python"
+      ],
+      "name": "Consumer-Aware Warehouse Management",
+      "description": "A proof of concept software for prediction of automatic optimal ordering for warehouses"
+    }
+  ],
+  "awards": [
+    {
+      "title": "ISU Usabilathon Winner",
+      "date": "Mar 2021",
+      "awarder": "HCI Student Group",
+      "summary": "Winners of a competition where I and two others created a user interface mockup to help inform undeserved students of financial aid options"
+    },
+    {
+      "title": "Teaching Excellence Award",
+      "date": "Nov 2020",
+      "awarder": "Iowa State University",
+      "summary": "Recognized for \"outstanding achievement\" in teaching. Awarded to the top 10% of Teaching Assistants"
+    },
+    {
+      "title": "Intel Ultimate Coder Challenge Winner",
+      "date": "Dec 2018",
+      "awarder": "Intel",
+      "summary": "Recognized for creating the most innovative \"revolutionary commercial application for the virtual world\""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
