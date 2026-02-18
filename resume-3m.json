@@ -1,0 +1,157 @@
+{
+  "selectedTemplate": 2,
+  "headings": {
+    "work": "",
+    "projects": "",
+    "awards": ""
+  },
+  "basics": {
+    "name": "Jameel Kelley",
+    "email": "jkelley4@mmm.com",
+    "location": {
+      "address": "St. Paul, MN"
+    }
+  },
+  "education": [
+    {
+      "institution": "Iowa State University",
+      "area": "Human-Computer Interaction & Computer Engineering",
+      "studyType": "MS",
+      "location": "Ames, IA",
+      "endDate": "Aug 2022",
+      "startDate": "May 2020"
+    },
+    {
+      "institution": "Iowa State University",
+      "location": "Ames, IA",
+      "area": "Software Engineering",
+      "endDate": "May 2020",
+      "studyType": "BS",
+      "startDate": "Aug 2016"
+    }
+  ],
+  "work": [
+    {
+      "highlights": [
+        "Develop digital-first tools to accelerate development in Material Engineering process workflows",
+        "Promote and apply user testing feedback and modify user interface for improved usability as Product Owner",
+        "Data Science Intern - Integrated Reinforcement Learning into a Unity simulation for determining optimal alert modality"
+      ],
+      "company": "3M",
+      "position": "Advanced Research Engineer - T2",
+      "location": "Maplewood, MN",
+      "startDate": "May 2021",
+      "endDate": "Present"
+    },
+    {
+      "highlights": [
+        "Leveraged the HTC Vive HMD and Unity to immerse subjects in mixed reality environment for faster and higher fidelity learning",
+        "Utilized an open-source computer vision platform to build an educational review dashboard for instructors at ISU"
+      ],
+      "company": "Virtual Reality Applications Center",
+      "position": "Research/Graduate Assistant",
+      "location": "Ames, IA",
+      "startDate": "Jan 2018",
+      "endDate": "Aug 2021"
+    },
+    {
+      "highlights": [
+        "Led a team of five engineers in technology discovery and implementation of 13 client-facing application pages in a React environment"
+      ],
+      "company": "Buildertrend",
+      "position": "Software Development Intern",
+      "location": "Omaha, NE",
+      "startDate": "May 2019",
+      "endDate": "Aug 2019"
+    },
+    {
+      "highlights": [
+        "Lead developer on VR farming hazard simulation application with aims to reduce the number of field accidents"
+      ],
+      "endDate": "Aug 2018",
+      "startDate": "May 2018",
+      "location": "Dubuque, IA",
+      "position": "Software Development Intern",
+      "company": "Design Mill Inc."
+    }
+  ],
+  "skills": [
+    {
+      "level": "Advanced",
+      "name": "Software Development",
+      "keywords": [
+        "TypeScript/JavaScript",
+        "HTML",
+        "Version control (Git, GitHub)",
+        "RESTful API development",
+        "Containerization (Docker)",
+        "C#",
+        "SQL and database management",
+        "Agile methodologies",
+        "Unit testing and test-driven development (TDD)"
+      ]
+    },
+    {
+      "level": "Proficient",
+      "name": "Software Development"
+    },
+    {
+      "keywords": [
+        "Research Design",
+        "Human-Centered Design",
+        "Nginx",
+        "Blender",
+        "Unity",
+        "Git"
+      ],
+      "name": "Processes / Tools"
+    }
+  ],
+  "projects": [
+    {
+      "keywords": ["Typescript", "React", "Github Actions"],
+      "name": "CRDP React Component Library",
+      "description": "Collection of 3M brand aligned, accessible, and reusable components for rapid internal user interface development"
+    },
+    {
+      "keywords": ["Unity", "C#", "Human-Centered Design"],
+      "name": "Evaluation of MolCog Software and NUPACK Integration",
+      "description": "Software integration and between-subjects test on integrated and non-integrated software to determine productivity, learning, and errors"
+    }
+  ],
+  "awards": [
+    {
+      "title": "1% Annual TCC Award",
+      "date": "Dec 2024",
+      "awarder": "3M",
+      "summary": "Awarded for work done in creation of a net new component library system which attention to \"planning, confidence, and dedication\" "
+    },
+    {
+      "title": "ISU Usabilathon Winner",
+      "date": "Mar 2021",
+      "awarder": "HCI Student Group",
+      "summary": "Creating and documenting user interface mockup to help inform undeserved students of financial aid options"
+    },
+    {
+      "title": "Teaching Excellence Award",
+      "date": "Nov 2020",
+      "awarder": "Iowa State University",
+      "summary": "Recognized for \"outstanding achievement\" in teaching. Awarded to the top 10% of Teaching Assistants"
+    },
+    {
+      "title": "Intel Ultimate Coder Challenge Winner",
+      "date": "Dec 2018",
+      "awarder": "Intel",
+      "summary": "Recognized for developing a virtual ag sprayer sim and awarded as the most innovative \"revolutionary commercial application for the virtual world\""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
