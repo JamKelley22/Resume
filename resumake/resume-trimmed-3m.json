@@ -1,0 +1,284 @@
+{
+  "meta": {
+    "theme": "elegant"
+  },
+  "basics": {
+    "name": "Jameel Kelley",
+    "label": "Full Stack Developer & HCI Researcher",
+    "image": "https://avatars.githubusercontent.com/u/22042028?v=4",
+    "summary": "Advanced Research Engineer @ 3M",
+    "email": "jkelley4@mmm.com",
+    "location": {
+      "region": "Minnesota",
+      "countryCode": "US",
+      "address": "St. Paul"
+    },
+    "profiles": [
+      {
+        "username": "JamKelley22",
+        "url": "https://github.com/JamKelley22/",
+        "network": "github"
+      },
+      {
+        "username": "jameel-kelley",
+        "url": "https://stackoverflow.com/users/7732931/jameel-kelley",
+        "network": "stackoverflow"
+      },
+      {
+        "username": "jamkelley22",
+        "url": "https://www.linkedin.com/in/jamkelley22/",
+        "network": "linkedin"
+      }
+    ]
+  },
+  "volunteer": [
+    {
+      "organization": "FIRST Robotics Team 3100",
+      "position": "Mentor (Software)",
+      "url": "https://team3100.com/",
+      "startDate": "2026-01-12",
+      "summary": "Provided guidance and assistance with local High School robotics team during construction, testing, and competition",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Iowa State University",
+      "url": "https://www.iastate.edu/",
+      "area": "Human-Computer Interaction & Computer Engineering",
+      "studyType": "MS",
+      "location": "Ames, IA",
+      "startDate": "2020-05-01",
+      "endDate": "2022-09-01"
+    },
+    {
+      "institution": "Iowa State University",
+      "url": "https://www.iastate.edu/",
+      "location": "Ames, IA",
+      "area": "Software Engineering",
+      "studyType": "BS",
+      "startDate": "2016-08-01",
+      "endDate": "2020-05-01"
+    }
+  ],
+  "work": [
+    {
+      "highlights": [
+        "Developing maintainable, digital-first tools to accelerate development in Material Engineering process workflows",
+        "Promote and apply user testing feedback and modify user interface for improved usability as Product Owner of five developers",
+        "Data Science Intern - Integrated Reinforcement Learning into a Unity simulation for determining optimal alert modality"
+      ],
+      "company": "3M",
+      "name": "3M",
+      "position": "Advanced Research Engineer - T2",
+      "url": "https://www.3m.com/",
+      "location": "Maplewood, MN",
+      "summary": "Maplewood, MN",
+      "startDate": "2021-05-01"
+    },
+    {
+      "highlights": [
+        "Leveraged the HTC Vive HMD to immerse subjects in mixed reality for rapid, high-fidelity learning",
+        "Utilized an open-source computer vision platform to build an educational review dashboard for instructors at ISU"
+      ],
+      "company": "Virtual Reality Applications Center",
+      "name": "Virtual Reality Applications Center",
+      "position": "Research/Graduate Assistant",
+      "url": "http://www.vrac.iastate.edu/",
+      "location": "Ames, IA",
+      "startDate": "2018-01-01",
+      "endDate": "2022-07-01"
+    },
+    {
+      "highlights": [
+        "Led a team of five engineers in technology discovery and implementation of 13 client-facing application pages in a React environment"
+      ],
+      "company": "Buildertrend",
+      "position": "Software Development Intern",
+      "url": "https://buildertrend.com/",
+      "location": "Omaha, NE",
+      "startDate": "2019-05-01",
+      "endDate": "2019-08-01"
+    },
+    {
+      "highlights": [
+        "Lead developer on VR farming hazard simulation application with aims to reduce the number of field accidents"
+      ],
+      "url": "https://designmillinc.com/",
+      "endDate": "2018-08-01",
+      "startDate": "2018-05-01",
+      "location": "Dubuque, IA",
+      "position": "Software Development Intern",
+      "company": "Design Mill Inc."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [
+        "TypeScript/JavaScript",
+        "HTML",
+        "C#",
+        "SQL and database management"
+      ]
+    },
+    {
+      "keywords": ["Remix", "Svelte"],
+      "name": "Frameworks"
+    },
+    {
+      "name": "Software Development",
+      "keywords": [
+        "Version control (Git, GitHub)",
+        "RESTful API development",
+        "Containerization (Docker)",
+        "Agile methodologies",
+        "Unit testing and test-driven development (TDD)",
+        "CI/CD (Github Actions)"
+      ]
+    },
+    {
+      "keywords": [
+        "Research Design",
+        "Human-Centered Design",
+        "Nginx",
+        "Blender",
+        "Unity",
+        "Git"
+      ],
+      "name": "Processes / Tools"
+    }
+  ],
+  "interests": [
+    {
+      "name": "3D Printing",
+      "keywords": ["3d", "3d-printing"]
+    },
+    {
+      "name": "Redirected Walking in Virtual Reality",
+      "keywords": ["rdw", "redirected walking"]
+    },
+    {
+      "name": "Interface design",
+      "keywords": ["figma", "human-centered design"]
+    },
+    {
+      "name": "Game Development",
+      "keywords": ["godot", "unity3d"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Dr. Stephen Gilbert",
+      "reference": "https://www.imse.iastate.edu/directory/profile/gilbert/"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "projects": [
+    {
+      "keywords": ["Typescript", "React", "Github Actions"],
+      "name": "CRDP React Component Library",
+      "description": "Collection of 3M brand aligned, accessible, and reusable components for rapid internal user interface development",
+      "highlights": [],
+      "url": "https://github.com/3M-Cloud/crdl-react-components",
+      "roles": [],
+      "entity": "CRDP",
+      "type": "component library",
+      "startDate": "2024-04-17"
+    },
+    {
+      "keywords": ["Unity", "C#", "Human-Centered Design"],
+      "name": "Evaluation of MolCog Software and NUPACK Integration",
+      "description": "Software integration and between-subjects test on integrated and non-integrated software to determine productivity, learning, and errors",
+      "highlights": [],
+      "url": "https://dr.lib.iastate.edu/handle/20.500.12876/105487",
+      "roles": [],
+      "entity": "ISU",
+      "type": "software application",
+      "startDate": "2020-08-01",
+      "endDate": "2022-12-01"
+    }
+  ],
+  "awards": [
+    {
+      "title": "1% Annual TCC Award",
+      "date": "2024-12-18",
+      "awarder": "3M",
+      "summary": "Awarded for work done in creation of a net-new component library system with attention to \"planning, confidence, and dedication\""
+    },
+    {
+      "title": "3M Tech Forum Gold Star Chair Awardee",
+      "date": "2023-12-25",
+      "awarder": "3M US Tech Forum",
+      "summary": "3M Tech Forum represents a place where scientists gather to discuss ideas. A gold star is given to chairs who preform exceptionally at leading a chapter during a year."
+    },
+    {
+      "title": "ISU Usabilathon Winner",
+      "date": "2021-03-01",
+      "awarder": "HCI Student Group",
+      "summary": "Creating and documenting user interface mockup to help inform undeserved students of financial aid options"
+    },
+    {
+      "title": "Teaching Excellence Award",
+      "date": "2020-11-01",
+      "awarder": "Iowa State University",
+      "summary": "Recognized for \"outstanding achievement\" in teaching. Awarded to the top 10% of Teaching Assistants"
+    },
+    {
+      "title": "Intel Ultimate Coder Challenge Winner",
+      "date": "2018-12-01",
+      "awarder": "Intel",
+      "summary": "Recognized for developing a virtual ag sprayer sim and awarded as the most innovative \"revolutionary commercial application for the virtual world\""
+    }
+  ],
+  "certificates": [],
+  "publications": [
+    {
+      "name": "Augmented Reality and User Interface for the Sustainable Product Architecture and Supplier Selection (S-PASS) Cyberlearning Tool",
+      "publisher": "Iowa State University Virtual Reality Applications Center",
+      "releaseDate": "2017-08-01",
+      "url": "https://www.vrac.iastate.edu/wp-content/uploads/reu2017/CooLSLiCE_Paper.docx",
+      "summary": "Various engineering design courses through cornerstone and capstone projects have been common in engineering curriculums due to their learning effectiveness. However, engineering students are often asked to design and manage multiple concurrent abstract tasks without any decision support tool to effectively guide and track their progress. To tackle this issue, this study aims to develop a design decision support tool for engineering students that provides enhanced learning through a cyberlearning application platform with an effective user interface. This study particularly focuses on transforming the current static learning environment of the Sustainable Product Architecture and Supplier Selection (S-PASS) tool into more dynamic learning environment to promote engineering students’ learning for sustainable life cycle engineering; two enhanced versions of the S-PASS tool, 1) web-based without augmented reality and 2) web-based with augmented reality, are developed. Then, the current version and the new versions of the S-PASS tool are evaluated by undergraduate and graduate STEM students using pre-and post-user experience surveys along with eye tracking experiments to identify changes in usability, motivation, enjoyment, and understanding for the learning subjects. The results show that the cyberlearning platform with consideration of dynamic learning elements improves students’ tasks and learning performance."
+    },
+    {
+      "name": "TeachActive Feedback Dashboard: Using Automated Classroom Analytics to Visualize Pedagogical Strategies at a Glance",
+      "publisher": "CHI: Conference on Human Factors in Computing Systems - Extended Abstracts",
+      "releaseDate": "2021-01-01",
+      "url": "https://dl.acm.org/doi/10.1145/3411763.3451709",
+      "summary": "TEACHActive is an automated feedback dashboard that provides instructors with visual classroom analytics about the active learning facilitation strategies they use in their classrooms. We describe TEACHActive system’s root requirement of improving pedagogical practices through refection, the system’s process of data fow from an automated observation system, EduSense, to the feedback dashboard, and the technical design of the infrastructure. We designed the TEACHActive dashboard to visualize EduSense’s automated observation output and give instructors feedback about their active learning facilitation strategies in their classrooms with the goal of improving their pedagogical practices. We present the TEACHActive prototype development process with three illustrative prototypes."
+    },
+    {
+      "name": "Designing the TEACHActive Feedback Dashboard: A Human Centered Approach",
+      "publisher": "11th International Conference on Learning Analytics & Knowledge (LAK21)",
+      "releaseDate": "2021-04-01",
+      "url": "https://dr.lib.iastate.edu/server/api/core/bitstreams/49a9053b-5920-4815-840c-b4e3b9f27102/content",
+      "summary": "Effective facilitation of active learning is key to enhancing student engagement in engineering classrooms. Instructors need opportunities for frequent observation, feedback, and reflection on the use of their active learning strategies, yet there are no validated automated approaches available. We address this need by designing a feedback dashboard, TEACHActive, that leverages classroom analytics from an automated sensing observation system. The TEACHActive dashboard provides feedback on the in-class implementation of various active learning strategies in engineering classrooms. In this poster, we present the initial phases of a human-centered dashboard design process. The human-centered design (HCD) approach includes techniques such as, creating personas, conducting user interviews, and implementing user walk-through sessions. To confirm the practicability of TEACHActive dashboard for further revisions before the actual larger scale (n=30) implementation, a small sample of engineering instructors (n=5) participated in the prototype design process to identify meaningful attributes associated with the TEACHActive dashboard and shared perspectives and expectations towards its use in their classrooms. Keywords: feedback dashboard, active learning, classroom analytics, human-centered design."
+    },
+    {
+      "name": "University Implementation of TEACHActive - An Automated Classroom Feedback System and Dashboard",
+      "publisher": "2021 HFES 65th International Annual Meeting",
+      "releaseDate": "2021-09-01",
+      "url": "https://journals.sagepub.com/doi/pdf/10.1177/1071181321651186",
+      "summary": "Computer vision has the potential to play a significant role in capacity building for classroom instructors via automated feedback. This paper describes the implementation of an automated sensing and feedback system, TEACHActive. The results of this paper can enable other campuses to replicate a similar system using open-source software and consumer-grade hardware. Some of the challenges discussed include faculty recruitment, IRB procedures, camera-based classroom footage privacy, hardware setup, software setup, and IT support. The design and implementation of the TEACHActive system is being carried out at Iowa State University and is being tested with faculty in classrooms pilots. Preliminary interviews with instructors show a desire to include more active learning methods in their classrooms and overall interest in a system that can perform automated feedback. The primary results of this paper include lessons learned from the institutional implementation process."
+    },
+    {
+      "name": "Consumer Aware Warehouse Management",
+      "publisher": "",
+      "releaseDate": "2019-11-03",
+      "url": "https://sdmay20-25.sd.ece.iastate.edu/docs/v2/Design%20Document%20Revision%202.pdf",
+      "summary": "This document exists to detail the overall planning and design of the Consumer Aware Warehouse Management system. This section gives a very brief overview of the document and what will be covered. Development standards, practices, and applicable courses, along with skills, are briefly listed"
+    },
+    {
+      "name": "Web Design with Accessibility in Mind",
+      "publisher": "",
+      "releaseDate": "2019-11-03",
+      "url": "https://scholar.google.com/scholar?cluster=16090514821170253895",
+      "summary": "Accessibility deals with making content usable for a wide audience in spite of disabilities. In this document, we will be discussing how to design websites to make them accessible. After reading this document, a web designer or developer should be able to begin implementing accessibility into their content."
+    }
+  ]
+}
